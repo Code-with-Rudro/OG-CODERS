@@ -94,5 +94,8 @@ A *secure, transparent, and user-friendly marketplace* for two-wheelers in India
 ### EMI Calculator
 ![image alt](https://github.com/Code-with-Rudro/2ndRide/blob/9b68b15982f0f6bd0d164bd2a0ae5f172a920b4c/Screenshot%202025-09-28%20135306.png)
 
-### Model comparision
+### Model comparison
 ![image alt](https://github.com/Code-with-Rudro/2ndRide/blob/072e09f65d80bd32b4020ee0498252400942eb82/Screenshot%202025-09-28%20135427.png)
+
+### Our Collection
+![image alt](https://github.com/Code-with-Rudro/2ndRide/blob/607eda5af22631c7be822b71a503aa057ef524a3/Screenshot%202025-09-28%20134919.png)
