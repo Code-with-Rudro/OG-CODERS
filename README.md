@@ -85,7 +85,7 @@ A *secure, transparent, and user-friendly marketplace* for two-wheelers in India
 ### home page
 ![image alt](https://github.com/Code-with-Rudro/2ndRide/blob/90d540302d8054869f16b48dd8db80f8a483331c/WhatsApp%20Image%202025-09-28%20at%2012.12.27.jpeg)
 
-### Fuel cost estimation
+### Fuel Cost Calculator
 ![image alt](https://github.com/Code-with-Rudro/2ndRide/blob/eea7ecc30459fd16051130c9dca7e4d8e0f7718f/Screenshot%202025-09-28%20135234.png)
 
 ### Book a Test Ride
@@ -93,3 +93,6 @@ A *secure, transparent, and user-friendly marketplace* for two-wheelers in India
 
 ### EMI Calculator
 ![image alt](https://github.com/Code-with-Rudro/2ndRide/blob/9b68b15982f0f6bd0d164bd2a0ae5f172a920b4c/Screenshot%202025-09-28%20135306.png)
+
+### Model comparision
+![image alt](https://github.com/Code-with-Rudro/2ndRide/blob/072e09f65d80bd32b4020ee0498252400942eb82/Screenshot%202025-09-28%20135427.png)
