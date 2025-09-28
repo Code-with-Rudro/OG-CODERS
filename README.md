@@ -105,3 +105,6 @@ A *secure, transparent, and user-friendly marketplace* for two-wheelers in India
 
 ### Admin Access Page
 ![image alt](https://github.com/Code-with-Rudro/2ndRide/blob/5d22b8005a7a2f525e8075beef09126b788425a9/Screenshot%202025-09-28%20135532.png)
+
+### Admin Dashboard
+![image alt](https://github.com/Code-with-Rudro/2ndRide/blob/6463f7acb705d848d431b9a07dcefedb38aaad8d/Screenshot%202025-09-28%20135607.png)
