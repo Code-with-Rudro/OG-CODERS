@@ -79,3 +79,8 @@ This app *fills the gaps* with *trust, safety, AI verification, transparent pric
 ## End Goal
 
 A *secure, transparent, and user-friendly marketplace* for two-wheelers in India that bridges the trust gap and enhances the user experience beyond OLX/Quikr.
+
+
+## Prototype output
+### home page
+![image alt](https://github.com/Code-with-Rudro/2ndRide/blob/90d540302d8054869f16b48dd8db80f8a483331c/WhatsApp%20Image%202025-09-28%20at%2012.12.27.jpeg)
