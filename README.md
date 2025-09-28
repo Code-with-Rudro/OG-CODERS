@@ -1,13 +1,13 @@
-# 🏍 Two-Wheeler Marketplace Web App
+#  Two-Wheeler Marketplace Web App
 
 A *full-stack marketplace platform* for buying, selling, and exploring *bikes, scooters, and EVs*.
 This project solves the drawbacks of existing second-hand bike apps like *OLX/Quikr* by adding *trust, AI-powered verification, transparency, and after-sale services*.
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🔎 Core Marketplace
+###  Core Marketplace
 
 * Browse *bikes, scooters, and EVs*.
 * Advanced *search & filters* by brand, price (₹), year, mileage, and fuel type.
@@ -21,7 +21,7 @@ This project solves the drawbacks of existing second-hand bike apps like *OLX/Qu
 
 ---
 
-### 🔐 Trust & Safety
+###  Trust & Safety
 
 * *AI Image Detection* to block fake/duplicate images.
 * *RC & Insurance verification* (via VAHAN/DigiLocker APIs or mock).
@@ -30,7 +30,7 @@ This project solves the drawbacks of existing second-hand bike apps like *OLX/Qu
 
 ---
 
-### 📊 Transparency & Pricing
+###  Transparency & Pricing
 
 * *AI-powered Market Price Estimator* for used bikes.
 * *Bike History Reports* (ownership count, accidents, insurance claims).
@@ -38,7 +38,7 @@ This project solves the drawbacks of existing second-hand bike apps like *OLX/Qu
 
 ---
 
-### 💬 Communication & Payments
+###  Communication & Payments
 
 * *In-app chat* with phone masking.
 * *Predefined FAQs* for quick responses.
@@ -47,7 +47,7 @@ This project solves the drawbacks of existing second-hand bike apps like *OLX/Qu
 
 ---
 
-### 🔧 After-Sale Services
+###  After-Sale Services
 
 * *Digital RC transfer assistance*.
 * *Insurance renewal integration*.
@@ -55,7 +55,7 @@ This project solves the drawbacks of existing second-hand bike apps like *OLX/Qu
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * *Frontend*: React.js / Next.js + TailwindCSS
 * *Backend*: Node.js + Express
@@ -67,7 +67,7 @@ This project solves the drawbacks of existing second-hand bike apps like *OLX/Qu
 
 ---
 
-## 📌 Problem Solved
+##  Problem Solved
 
 Existing second-hand apps (OLX, Quikr, etc.) have issues like:
 
@@ -75,17 +75,17 @@ Existing second-hand apps (OLX, Quikr, etc.) have issues like:
 * Lack of transparent pricing & history.
 * No proper communication or after-sale support.
 
-👉 This app *fills the gaps* with *trust, safety, AI verification, transparent pricing, and extra services*.
+ This app *fills the gaps* with *trust, safety, AI verification, transparent pricing, and extra services*.
 
 ---
 
-## 🎯 End Goal
+##  End Goal
 
 A *secure, transparent, and user-friendly marketplace* for two-wheelers in India that bridges the trust gap and enhances the user experience beyond OLX/Quikr.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone the repo:
 
