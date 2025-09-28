@@ -45,7 +45,7 @@ A full-stack marketplace system for buying, selling, and exploring bikes, scoote
 * In-app chat with phone masking.
 * Predetermined FAQs for quick responses.
 * Spam protection: Only verified buyers can contact sellers.
-* Escrow payments through Razorpay (test mode only).
+* Escrow payments through Razorpay,paypal..etc (test mode only).
 
   ### After-Sale Services
 
