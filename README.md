@@ -1,53 +1,50 @@
-#  Two-Wheeler Marketplace Web App
+# Two-Wheeler Marketplace Web Application
 
-A *full-stack marketplace platform* for buying, selling, and exploring *bikes, scooters, and EVs*.
-This project solves the drawbacks of existing second-hand bike apps like *OLX/Quikr* by adding *trust, AI-powered verification, transparency, and after-sale services*.
-
----
-
-##  Features
-
-###  Core Marketplace
-
-* Browse *bikes, scooters, and EVs*.
-* Advanced *search & filters* by brand, price (₹), year, mileage, and fuel type.
-* *Vehicle details page* with specs, images, and on-road price.
-* *Compare models side-by-side*.
-* *Financial tools*: EMI calculator (₹), fuel cost calculator (Petrol vs EV).
-* *Upcoming launches* with price and release details.
-* *Showroom explorer* with Google Maps integration.
-* *Book test rides* directly from the app.
-* *Used bike marketplace* with seller ads and buyer search.
+A full-stack marketplace system for buying, selling, and exploring bikes, scooters, and electric vehicles (EVs). This project addresses the limitations of existing second-hand bike apps like OLX/Quikr by adding trust, AI-based verification, transparency, and after-sale services.
 
 ---
 
-###  Trust & Safety
+## Features
 
-* *AI Image Detection* to block fake/duplicate images.
-* *RC & Insurance verification* (via VAHAN/DigiLocker APIs or mock).
-* *Verified Seller Badges* for trusted sellers.
-* *Inspection reports* for used bikes.
+### Core System
 
----
-
-###  Transparency & Pricing
-
-* *AI-powered Market Price Estimator* for used bikes.
-* *Bike History Reports* (ownership count, accidents, insurance claims).
-* *Price vs Market graphs* to aid buyer decisions.
-
----
-
-###  Communication & Payments
-
-* *In-app chat* with phone masking.
-* *Predefined FAQs* for quick responses.
-* *Spam protection*: only verified buyers can contact sellers.
-* *Escrow payments* with Razorpay (test mode).
+* Explore bikes, scooters, and electric vehicles (EVs).
+* Advanced searching and filtering options by brand, price (₹), year, mileage, and fuel type.
+* Vehicle details screen with specifications, multiple images, and on-road price.
+* Side-by-side model comparison.
+* Financial tools; EMI calculator (₹), fuel cost calculator (Petrol v EV).
+* Upcoming launches (prices and release dates).
+* Explore showrooms with Google Maps integration.
+* Book test rides from the app.
+* Marketplace for used bikes, including seller ads and search option for buyers.
 
 ---
 
-###  After-Sale Services
+### Trust and Safety
+
+* AI Image Detection for blocking fake/duplicate images.
+* RC and insurance validity check (fake or worked with VAHAN/DigiLocker APIs).
+* Verified Seller badges clearly defined.
+* Inspection reports for used bikes.
+
+---
+
+### Transparency and Value Pricing
+
+* AI-base market price estimator for used bike.
+* Bike history reports (number of owners, accidents, and insurance claims).
+* Pricing v market graphs to help buyers.
+
+---
+
+### Communication and Payments
+
+* In-app chat with phone masking.
+* Predetermined FAQs for quick responses.
+* Spam protection: Only verified buyers can contact sellers.
+* Escrow payments through Razorpay (test mode only).
+
+  ### After-Sale Services
 
 * *Digital RC transfer assistance*.
 * *Insurance renewal integration*.
@@ -55,7 +52,7 @@ This project solves the drawbacks of existing second-hand bike apps like *OLX/Qu
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 * *Frontend*: React.js / Next.js + TailwindCSS
 * *Backend*: Node.js + Express
@@ -67,7 +64,7 @@ This project solves the drawbacks of existing second-hand bike apps like *OLX/Qu
 
 ---
 
-##  Problem Solved
+## Problem Solved
 
 Existing second-hand apps (OLX, Quikr, etc.) have issues like:
 
@@ -75,30 +72,10 @@ Existing second-hand apps (OLX, Quikr, etc.) have issues like:
 * Lack of transparent pricing & history.
 * No proper communication or after-sale support.
 
- This app *fills the gaps* with *trust, safety, AI verification, transparent pricing, and extra services*.
+This app *fills the gaps* with *trust, safety, AI verification, transparent pricing, and extra services*.
 
 ---
 
-##  End Goal
+## End Goal
 
 A *secure, transparent, and user-friendly marketplace* for two-wheelers in India that bridges the trust gap and enhances the user experience beyond OLX/Quikr.
-
----
-
-##  Getting Started
-
-1. Clone the repo:
-
-   bash
-   git clone https://github.com/your-username/two-wheeler-marketplace.git
-   cd two-wheeler-marketplace
-   
-2. Install dependencies:
-
-   bash
-   npm install
-   
-3. Run the app:
-
-   bash
-   npm run dev
