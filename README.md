@@ -87,3 +87,6 @@ A *secure, transparent, and user-friendly marketplace* for two-wheelers in India
 
 ### Fuel cost estimation
 ![image alt](https://github.com/Code-with-Rudro/2ndRide/blob/eea7ecc30459fd16051130c9dca7e4d8e0f7718f/Screenshot%202025-09-28%20135234.png)
+
+### Book a Test Ride
+![image alt](https://github.com/Code-with-Rudro/2ndRide/blob/0f3d0c32fd83292ccba5d91eb9f84df11a476bf4/Screenshot%202025-09-28%20135354.png)
