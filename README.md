@@ -86,7 +86,7 @@ A *secure, transparent, and user-friendly marketplace* for two-wheelers in India
 
 ## Prototype output
 ### home page
-![image alt](https://github.com/Code-with-Rudro/2ndRide/blob/90d540302d8054869f16b48dd8db80f8a483331c/WhatsApp%20Image%202025-09-28%20at%2012.12.27.jpeg)
+![image alt](https://github.com/Code-with-Rudro/2ndRide/blob/ebb5974a2a8945145450ad830dbb091ed7366a99/Screenshot%202025-09-28%20161236.png)
 
 ### Fuel Cost Calculator
 ![image alt](https://github.com/Code-with-Rudro/2ndRide/blob/eea7ecc30459fd16051130c9dca7e4d8e0f7718f/Screenshot%202025-09-28%20135234.png)
